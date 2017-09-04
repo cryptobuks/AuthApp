@@ -7,6 +7,7 @@ A MEAN(Mongo EJS Angular Node) Authentication app
    2.cd AuthApp <br>
    3.npm install <br>
    4.nodemon (if you are smart)<br>then Magic Will Happen At localhost:8080
+     **Start MongoDb if you creating a DEV server
    
  
  #note
